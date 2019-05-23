@@ -5,3 +5,5 @@
  `https://github.com/lee-han/dictionary/raw/master/hanyu.zip`
 
 안녕
+
+나도 안녕
